@@ -51,8 +51,7 @@
     <div class="container">
         <h1>Hi 👋</h1>
         <p>This web page is part of my <strong>DevOps Interview Task</strong></p>
-        <p class="quote">“Automation is my passion, and CI/CD is my playground 🚀”</p>
-        <p class="quote">“Code → Build → Test → Deploy → Impress 😎”</p>
-    </div>
+        <p class="quote">“Hello Everyone... Have a nice day”</p>
+            </div>
 </body>
 </html>
